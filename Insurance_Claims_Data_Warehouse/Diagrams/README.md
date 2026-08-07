@@ -2,4 +2,4 @@
 
 
 
-![System Architecture](Diagrams/Insurance_warehouse_daigram.png)
+![System Architecture](Insurance_warehouse_daigram.png)
