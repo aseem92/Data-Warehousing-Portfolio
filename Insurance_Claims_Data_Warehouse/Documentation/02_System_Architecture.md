@@ -58,4 +58,4 @@ Power BI provides interactive dashboards for business users.
 
 ## Architecture Diagram
 
-(Add 01_System_Architecture.png here)
+Insurance_warehouse_daigram.png
