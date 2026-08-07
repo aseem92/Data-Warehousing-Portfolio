@@ -38,7 +38,7 @@ The objective of this repository is to showcase practical Data Engineering and B
 
 ---
 
-## 🏥 Hospital Data Warehouse
+## 🏥 Hospital Risk Analysis and Data Warehouse
 
 **Business Domain:** Healthcare
 
