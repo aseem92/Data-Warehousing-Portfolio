@@ -1,0 +1,1001 @@
+complaint_id,visit_id,complaint_category,complaint_severity
+1,313,Pharmacy Delay,Medium
+2,3264,Long Wait Time,Medium
+3,2519,Staff Behaviour,Medium
+4,232,Staff Behaviour,High
+5,3350,Billing Delay,Low
+6,4316,Doctor Interaction,High
+7,1073,Pharmacy Delay,High
+8,89,Long Wait Time,Medium
+9,2801,Pharmacy Delay,High
+10,3694,Pharmacy Delay,Medium
+11,1112,Doctor Interaction,Medium
+12,1171,Cleanliness,High
+13,113,Long Wait Time,Low
+14,3609,Billing Delay,Low
+15,4345,Doctor Interaction,Medium
+16,4933,Staff Behaviour,High
+17,4320,Doctor Interaction,High
+18,1626,Doctor Interaction,Low
+19,1340,Doctor Interaction,Medium
+20,1688,Pharmacy Delay,Medium
+21,4682,Billing Delay,High
+22,3424,Billing Delay,High
+23,1038,Long Wait Time,Medium
+24,2912,Long Wait Time,Medium
+25,3378,Cleanliness,High
+26,3995,Long Wait Time,Medium
+27,2638,Long Wait Time,High
+28,1964,Billing Delay,High
+29,2655,Doctor Interaction,Medium
+30,974,Doctor Interaction,High
+31,301,Pharmacy Delay,Medium
+32,2907,Staff Behaviour,Medium
+33,2714,Doctor Interaction,Low
+34,1713,Billing Delay,Medium
+35,3031,Cleanliness,Medium
+36,1454,Long Wait Time,Low
+37,4300,Doctor Interaction,High
+38,316,Long Wait Time,Low
+39,3456,Pharmacy Delay,Medium
+40,1203,Doctor Interaction,High
+41,1492,Staff Behaviour,Low
+42,3178,Cleanliness,High
+43,4823,Pharmacy Delay,Low
+44,2976,Cleanliness,Low
+45,4483,Long Wait Time,Medium
+46,4524,Cleanliness,High
+47,4239,Staff Behaviour,High
+48,2795,Pharmacy Delay,High
+49,1889,Billing Delay,Medium
+50,4549,Long Wait Time,Low
+51,2121,Billing Delay,Medium
+52,1279,Pharmacy Delay,High
+53,4771,Pharmacy Delay,High
+54,4214,Pharmacy Delay,Low
+55,2420,Billing Delay,Low
+56,2566,Staff Behaviour,Medium
+57,2774,Staff Behaviour,Low
+58,3523,Billing Delay,High
+59,1321,Long Wait Time,High
+60,4511,Doctor Interaction,Medium
+61,4322,Staff Behaviour,Medium
+62,235,Billing Delay,Medium
+63,2183,Staff Behaviour,High
+64,2389,Doctor Interaction,Low
+65,2207,Pharmacy Delay,Medium
+66,4108,Staff Behaviour,Medium
+67,1441,Long Wait Time,Low
+68,2645,Long Wait Time,Medium
+69,3220,Cleanliness,Low
+70,4069,Billing Delay,Medium
+71,455,Long Wait Time,Medium
+72,2222,Pharmacy Delay,Medium
+73,4255,Doctor Interaction,Medium
+74,3159,Doctor Interaction,Low
+75,109,Doctor Interaction,Low
+76,186,Pharmacy Delay,High
+77,2988,Long Wait Time,High
+78,3096,Staff Behaviour,High
+79,9,Pharmacy Delay,Medium
+80,2413,Cleanliness,Medium
+81,4377,Pharmacy Delay,High
+82,1768,Staff Behaviour,High
+83,296,Pharmacy Delay,Medium
+84,2868,Billing Delay,Medium
+85,4003,Staff Behaviour,Low
+86,2985,Long Wait Time,Low
+87,4697,Billing Delay,High
+88,4272,Staff Behaviour,High
+89,4816,Pharmacy Delay,Low
+90,1084,Long Wait Time,High
+91,3973,Pharmacy Delay,Medium
+92,2765,Billing Delay,Medium
+93,946,Pharmacy Delay,Medium
+94,1130,Staff Behaviour,Low
+95,4838,Cleanliness,Low
+96,2468,Pharmacy Delay,Medium
+97,2382,Doctor Interaction,Medium
+98,4977,Staff Behaviour,Medium
+99,2339,Cleanliness,High
+100,816,Doctor Interaction,Medium
+101,1444,Cleanliness,Medium
+102,3775,Billing Delay,Low
+103,2122,Pharmacy Delay,High
+104,4566,Staff Behaviour,High
+105,3703,Billing Delay,Medium
+106,4791,Pharmacy Delay,Medium
+107,646,Long Wait Time,High
+108,4745,Cleanliness,High
+109,2033,Long Wait Time,Medium
+110,1606,Billing Delay,Medium
+111,2625,Pharmacy Delay,Low
+112,106,Billing Delay,Low
+113,3668,Doctor Interaction,Medium
+114,1799,Cleanliness,Medium
+115,4768,Long Wait Time,Low
+116,3054,Long Wait Time,Medium
+117,1006,Staff Behaviour,High
+118,1803,Billing Delay,Medium
+119,3225,Cleanliness,Low
+120,1882,Staff Behaviour,Low
+121,2867,Long Wait Time,Low
+122,4689,Doctor Interaction,Medium
+123,595,Doctor Interaction,High
+124,4109,Billing Delay,Low
+125,1574,Doctor Interaction,Medium
+126,3358,Pharmacy Delay,Low
+127,1571,Pharmacy Delay,Medium
+128,4163,Staff Behaviour,High
+129,3421,Staff Behaviour,High
+130,2067,Long Wait Time,Medium
+131,2308,Cleanliness,High
+132,2787,Long Wait Time,High
+133,391,Doctor Interaction,High
+134,4997,Doctor Interaction,Low
+135,360,Cleanliness,Medium
+136,1445,Billing Delay,Medium
+137,3955,Pharmacy Delay,Low
+138,299,Pharmacy Delay,Low
+139,957,Billing Delay,Medium
+140,4020,Cleanliness,Low
+141,4698,Pharmacy Delay,Low
+142,3158,Cleanliness,Medium
+143,1539,Doctor Interaction,Low
+144,3335,Pharmacy Delay,High
+145,4808,Long Wait Time,High
+146,2237,Pharmacy Delay,High
+147,853,Staff Behaviour,High
+148,4489,Long Wait Time,High
+149,620,Staff Behaviour,Low
+150,1349,Long Wait Time,High
+151,4471,Staff Behaviour,Medium
+152,3065,Long Wait Time,Low
+153,3329,Pharmacy Delay,High
+154,3710,Doctor Interaction,High
+155,1987,Staff Behaviour,Medium
+156,4501,Doctor Interaction,Low
+157,2295,Long Wait Time,Medium
+158,2078,Pharmacy Delay,Low
+159,1969,Staff Behaviour,High
+160,321,Pharmacy Delay,Low
+161,4359,Pharmacy Delay,High
+162,2609,Cleanliness,High
+163,3,Billing Delay,Low
+164,947,Doctor Interaction,Low
+165,1778,Doctor Interaction,Low
+166,2744,Staff Behaviour,High
+167,3413,Pharmacy Delay,High
+168,2658,Pharmacy Delay,Medium
+169,1001,Staff Behaviour,Medium
+170,2178,Pharmacy Delay,High
+171,2750,Pharmacy Delay,Medium
+172,3551,Doctor Interaction,Low
+173,2646,Long Wait Time,Medium
+174,3344,Billing Delay,Medium
+175,2351,Billing Delay,Medium
+176,1028,Doctor Interaction,High
+177,1906,Doctor Interaction,Low
+178,4951,Cleanliness,Medium
+179,4690,Cleanliness,High
+180,637,Billing Delay,High
+181,3830,Cleanliness,High
+182,1190,Long Wait Time,High
+183,2288,Billing Delay,Medium
+184,3060,Staff Behaviour,Low
+185,152,Doctor Interaction,Low
+186,3998,Long Wait Time,Medium
+187,3449,Doctor Interaction,Low
+188,2449,Cleanliness,High
+189,1037,Doctor Interaction,High
+190,789,Cleanliness,High
+191,4926,Billing Delay,Medium
+192,750,Staff Behaviour,Low
+193,2468,Long Wait Time,High
+194,1462,Doctor Interaction,Low
+195,2298,Staff Behaviour,Low
+196,4276,Billing Delay,Medium
+197,331,Billing Delay,High
+198,465,Staff Behaviour,Medium
+199,2918,Billing Delay,Low
+200,4245,Cleanliness,Low
+201,4551,Billing Delay,High
+202,4878,Billing Delay,Low
+203,1125,Long Wait Time,Low
+204,1557,Pharmacy Delay,Medium
+205,4600,Billing Delay,Low
+206,2851,Doctor Interaction,High
+207,4174,Billing Delay,Low
+208,3124,Doctor Interaction,Medium
+209,580,Long Wait Time,High
+210,4387,Long Wait Time,Low
+211,4865,Staff Behaviour,High
+212,2943,Cleanliness,High
+213,1656,Long Wait Time,High
+214,437,Staff Behaviour,Low
+215,2475,Staff Behaviour,Low
+216,2425,Cleanliness,Medium
+217,2811,Long Wait Time,Medium
+218,4288,Long Wait Time,Medium
+219,1263,Cleanliness,High
+220,2527,Cleanliness,Medium
+221,825,Pharmacy Delay,High
+222,4501,Long Wait Time,High
+223,3142,Long Wait Time,High
+224,3988,Doctor Interaction,Medium
+225,3868,Pharmacy Delay,Low
+226,1769,Doctor Interaction,Low
+227,1343,Pharmacy Delay,Low
+228,2274,Billing Delay,Low
+229,2157,Staff Behaviour,Medium
+230,4625,Pharmacy Delay,Medium
+231,3330,Cleanliness,High
+232,4113,Doctor Interaction,Medium
+233,3875,Doctor Interaction,Low
+234,2139,Doctor Interaction,Medium
+235,2201,Billing Delay,High
+236,386,Cleanliness,Low
+237,1325,Long Wait Time,High
+238,1765,Billing Delay,Low
+239,3239,Billing Delay,Low
+240,978,Pharmacy Delay,Medium
+241,1621,Billing Delay,Low
+242,1762,Long Wait Time,Low
+243,2034,Long Wait Time,Low
+244,2288,Staff Behaviour,High
+245,4706,Long Wait Time,Low
+246,4225,Long Wait Time,Medium
+247,4175,Staff Behaviour,Low
+248,2701,Pharmacy Delay,Medium
+249,2048,Pharmacy Delay,Low
+250,3536,Billing Delay,High
+251,1632,Pharmacy Delay,High
+252,1956,Cleanliness,Low
+253,1779,Pharmacy Delay,Medium
+254,2686,Pharmacy Delay,Medium
+255,4811,Billing Delay,Medium
+256,2372,Staff Behaviour,Low
+257,4087,Billing Delay,High
+258,1153,Doctor Interaction,Low
+259,1041,Doctor Interaction,High
+260,3942,Pharmacy Delay,Low
+261,4164,Long Wait Time,Medium
+262,3781,Long Wait Time,High
+263,4437,Pharmacy Delay,Low
+264,2829,Billing Delay,Low
+265,4339,Doctor Interaction,Medium
+266,898,Pharmacy Delay,High
+267,3468,Cleanliness,Low
+268,4131,Pharmacy Delay,Low
+269,108,Pharmacy Delay,Low
+270,2889,Cleanliness,Medium
+271,2787,Doctor Interaction,Medium
+272,4999,Long Wait Time,Low
+273,4869,Staff Behaviour,Medium
+274,4495,Long Wait Time,High
+275,262,Pharmacy Delay,Low
+276,4300,Doctor Interaction,Low
+277,822,Staff Behaviour,High
+278,1931,Doctor Interaction,High
+279,3313,Staff Behaviour,Medium
+280,857,Billing Delay,Low
+281,153,Cleanliness,High
+282,4419,Staff Behaviour,Medium
+283,4838,Billing Delay,Medium
+284,4626,Staff Behaviour,Low
+285,3378,Billing Delay,Medium
+286,3422,Long Wait Time,Low
+287,868,Pharmacy Delay,High
+288,973,Pharmacy Delay,High
+289,173,Staff Behaviour,High
+290,705,Billing Delay,Low
+291,4041,Pharmacy Delay,High
+292,100,Pharmacy Delay,Low
+293,4011,Pharmacy Delay,Low
+294,1131,Cleanliness,High
+295,230,Long Wait Time,High
+296,4907,Staff Behaviour,Medium
+297,2269,Pharmacy Delay,Medium
+298,4928,Billing Delay,High
+299,853,Doctor Interaction,High
+300,2898,Staff Behaviour,Low
+301,1962,Long Wait Time,High
+302,1399,Long Wait Time,Medium
+303,749,Long Wait Time,Medium
+304,561,Doctor Interaction,High
+305,1277,Staff Behaviour,Medium
+306,3336,Cleanliness,Medium
+307,3056,Doctor Interaction,High
+308,2699,Billing Delay,Low
+309,1451,Pharmacy Delay,Low
+310,2889,Billing Delay,Medium
+311,149,Doctor Interaction,Low
+312,2093,Long Wait Time,Medium
+313,2466,Billing Delay,Low
+314,3194,Cleanliness,Low
+315,1053,Doctor Interaction,High
+316,166,Doctor Interaction,Medium
+317,3613,Cleanliness,Medium
+318,4915,Cleanliness,Medium
+319,1266,Staff Behaviour,Low
+320,3083,Long Wait Time,High
+321,1349,Long Wait Time,High
+322,4298,Doctor Interaction,Low
+323,3528,Pharmacy Delay,High
+324,569,Cleanliness,Low
+325,3086,Cleanliness,Medium
+326,421,Billing Delay,Low
+327,4161,Doctor Interaction,High
+328,4144,Doctor Interaction,Low
+329,4242,Staff Behaviour,Low
+330,2053,Doctor Interaction,High
+331,3682,Long Wait Time,High
+332,4252,Pharmacy Delay,Low
+333,2,Cleanliness,Low
+334,1045,Doctor Interaction,High
+335,2156,Staff Behaviour,High
+336,4574,Staff Behaviour,Low
+337,2506,Cleanliness,Medium
+338,3656,Long Wait Time,Low
+339,4079,Long Wait Time,Medium
+340,143,Pharmacy Delay,High
+341,2598,Billing Delay,High
+342,3851,Cleanliness,High
+343,4986,Billing Delay,High
+344,2995,Billing Delay,High
+345,3500,Cleanliness,Medium
+346,4520,Staff Behaviour,Low
+347,1324,Doctor Interaction,Medium
+348,2728,Cleanliness,High
+349,3867,Staff Behaviour,High
+350,989,Doctor Interaction,High
+351,3762,Long Wait Time,Low
+352,1151,Cleanliness,Low
+353,3089,Cleanliness,Low
+354,3983,Doctor Interaction,Medium
+355,899,Cleanliness,Low
+356,3343,Long Wait Time,High
+357,2837,Staff Behaviour,Medium
+358,3429,Long Wait Time,Medium
+359,1531,Long Wait Time,Low
+360,63,Staff Behaviour,High
+361,3741,Doctor Interaction,High
+362,4371,Doctor Interaction,Medium
+363,3832,Long Wait Time,Medium
+364,1314,Pharmacy Delay,Low
+365,100,Pharmacy Delay,Low
+366,2154,Cleanliness,High
+367,3491,Doctor Interaction,High
+368,3448,Cleanliness,Medium
+369,4801,Staff Behaviour,High
+370,287,Billing Delay,Medium
+371,2615,Pharmacy Delay,Low
+372,4200,Pharmacy Delay,Low
+373,3518,Billing Delay,High
+374,4374,Billing Delay,Medium
+375,3574,Cleanliness,Low
+376,465,Billing Delay,Medium
+377,5000,Cleanliness,High
+378,3722,Doctor Interaction,High
+379,3664,Staff Behaviour,High
+380,2300,Long Wait Time,Low
+381,995,Staff Behaviour,Low
+382,2040,Billing Delay,High
+383,4741,Billing Delay,High
+384,490,Pharmacy Delay,High
+385,1950,Pharmacy Delay,High
+386,3095,Long Wait Time,High
+387,1415,Cleanliness,Low
+388,2262,Long Wait Time,Low
+389,1104,Billing Delay,Medium
+390,3900,Long Wait Time,Medium
+391,1640,Doctor Interaction,High
+392,2245,Staff Behaviour,Medium
+393,593,Cleanliness,Medium
+394,3474,Long Wait Time,Low
+395,531,Long Wait Time,High
+396,469,Pharmacy Delay,High
+397,597,Cleanliness,Low
+398,3250,Staff Behaviour,Low
+399,3630,Billing Delay,Medium
+400,3756,Cleanliness,Low
+401,3882,Doctor Interaction,Medium
+402,2052,Pharmacy Delay,High
+403,4065,Staff Behaviour,High
+404,3918,Cleanliness,Low
+405,1059,Doctor Interaction,Medium
+406,1725,Long Wait Time,Medium
+407,4829,Cleanliness,Medium
+408,3504,Doctor Interaction,Medium
+409,1693,Doctor Interaction,High
+410,2813,Staff Behaviour,Medium
+411,23,Cleanliness,Low
+412,505,Doctor Interaction,Low
+413,3236,Billing Delay,Medium
+414,2634,Staff Behaviour,Medium
+415,1332,Cleanliness,High
+416,1940,Doctor Interaction,Medium
+417,2801,Long Wait Time,High
+418,3130,Pharmacy Delay,High
+419,4562,Billing Delay,Low
+420,3078,Staff Behaviour,High
+421,1944,Staff Behaviour,Low
+422,4467,Long Wait Time,Low
+423,2794,Long Wait Time,Low
+424,4603,Long Wait Time,Low
+425,1894,Staff Behaviour,Low
+426,4826,Doctor Interaction,High
+427,2088,Doctor Interaction,Medium
+428,3953,Long Wait Time,High
+429,1231,Doctor Interaction,High
+430,181,Pharmacy Delay,Medium
+431,3996,Cleanliness,High
+432,1382,Billing Delay,Medium
+433,4652,Doctor Interaction,Medium
+434,4728,Cleanliness,Low
+435,997,Long Wait Time,Medium
+436,4636,Doctor Interaction,High
+437,1125,Pharmacy Delay,High
+438,777,Cleanliness,Medium
+439,606,Billing Delay,Low
+440,1236,Long Wait Time,Medium
+441,1161,Billing Delay,Medium
+442,252,Cleanliness,Low
+443,2637,Long Wait Time,High
+444,3918,Cleanliness,Medium
+445,1213,Doctor Interaction,High
+446,4504,Pharmacy Delay,Medium
+447,541,Staff Behaviour,Medium
+448,4472,Pharmacy Delay,High
+449,449,Staff Behaviour,Medium
+450,3563,Billing Delay,Low
+451,4814,Staff Behaviour,High
+452,1987,Long Wait Time,Medium
+453,4433,Pharmacy Delay,Low
+454,4884,Pharmacy Delay,Low
+455,4079,Long Wait Time,Medium
+456,3566,Doctor Interaction,High
+457,2242,Doctor Interaction,Medium
+458,2953,Doctor Interaction,Medium
+459,725,Cleanliness,Low
+460,3380,Billing Delay,Low
+461,3406,Pharmacy Delay,Low
+462,1156,Cleanliness,High
+463,4659,Long Wait Time,High
+464,3201,Long Wait Time,High
+465,1879,Cleanliness,High
+466,2301,Long Wait Time,High
+467,1820,Billing Delay,Low
+468,4290,Doctor Interaction,Medium
+469,3977,Cleanliness,High
+470,4925,Billing Delay,Low
+471,4034,Doctor Interaction,Medium
+472,1254,Long Wait Time,Low
+473,2056,Billing Delay,High
+474,2041,Cleanliness,High
+475,1230,Long Wait Time,Medium
+476,3320,Cleanliness,Low
+477,4685,Staff Behaviour,High
+478,3768,Cleanliness,High
+479,1072,Doctor Interaction,High
+480,1561,Long Wait Time,Low
+481,1635,Pharmacy Delay,High
+482,4674,Long Wait Time,High
+483,3441,Billing Delay,Low
+484,3686,Pharmacy Delay,Medium
+485,3842,Staff Behaviour,Medium
+486,1217,Pharmacy Delay,Low
+487,4706,Pharmacy Delay,Low
+488,4691,Cleanliness,Medium
+489,1313,Staff Behaviour,Low
+490,648,Billing Delay,High
+491,2925,Cleanliness,High
+492,2644,Long Wait Time,High
+493,4314,Pharmacy Delay,Low
+494,2348,Staff Behaviour,Low
+495,1894,Billing Delay,Medium
+496,4283,Doctor Interaction,High
+497,4954,Billing Delay,Medium
+498,4222,Doctor Interaction,Low
+499,4146,Doctor Interaction,Low
+500,1717,Billing Delay,Medium
+501,4924,Cleanliness,Medium
+502,3904,Staff Behaviour,High
+503,2773,Billing Delay,Low
+504,4555,Long Wait Time,Medium
+505,1209,Staff Behaviour,Low
+506,2393,Long Wait Time,High
+507,2480,Pharmacy Delay,Low
+508,2555,Cleanliness,Medium
+509,2124,Doctor Interaction,Medium
+510,3290,Doctor Interaction,High
+511,2935,Staff Behaviour,Medium
+512,3972,Cleanliness,Low
+513,393,Doctor Interaction,Medium
+514,183,Cleanliness,Low
+515,3692,Long Wait Time,High
+516,257,Staff Behaviour,Low
+517,3584,Billing Delay,Medium
+518,2172,Billing Delay,Low
+519,4145,Cleanliness,Low
+520,2000,Doctor Interaction,High
+521,3783,Staff Behaviour,Low
+522,3528,Long Wait Time,High
+523,4297,Pharmacy Delay,Low
+524,1349,Doctor Interaction,Low
+525,2315,Pharmacy Delay,Medium
+526,3026,Pharmacy Delay,Low
+527,2298,Long Wait Time,Medium
+528,94,Doctor Interaction,High
+529,438,Pharmacy Delay,High
+530,4071,Staff Behaviour,Medium
+531,4592,Billing Delay,High
+532,3778,Cleanliness,High
+533,2481,Staff Behaviour,Medium
+534,2821,Billing Delay,Medium
+535,4165,Doctor Interaction,Medium
+536,4732,Staff Behaviour,Low
+537,3007,Billing Delay,High
+538,2137,Cleanliness,Medium
+539,4196,Billing Delay,Low
+540,2511,Doctor Interaction,Low
+541,3960,Pharmacy Delay,High
+542,333,Cleanliness,High
+543,279,Doctor Interaction,Low
+544,4494,Pharmacy Delay,High
+545,3759,Pharmacy Delay,Low
+546,4222,Cleanliness,High
+547,1730,Billing Delay,Medium
+548,434,Cleanliness,Medium
+549,4175,Staff Behaviour,High
+550,4323,Long Wait Time,Low
+551,2661,Staff Behaviour,High
+552,2749,Long Wait Time,Medium
+553,274,Doctor Interaction,Low
+554,4705,Cleanliness,Low
+555,4170,Billing Delay,Medium
+556,3845,Doctor Interaction,Medium
+557,1614,Billing Delay,Medium
+558,209,Long Wait Time,High
+559,2044,Staff Behaviour,Low
+560,3160,Pharmacy Delay,Medium
+561,1606,Cleanliness,Low
+562,3391,Doctor Interaction,Low
+563,2806,Cleanliness,Medium
+564,710,Billing Delay,Medium
+565,4954,Staff Behaviour,Low
+566,160,Pharmacy Delay,Low
+567,4640,Long Wait Time,High
+568,2836,Staff Behaviour,Low
+569,1540,Staff Behaviour,Low
+570,4561,Billing Delay,Low
+571,4148,Long Wait Time,Medium
+572,1138,Staff Behaviour,Medium
+573,3886,Long Wait Time,Medium
+574,4493,Doctor Interaction,Low
+575,1038,Pharmacy Delay,High
+576,1330,Long Wait Time,Medium
+577,929,Pharmacy Delay,High
+578,3354,Long Wait Time,Medium
+579,1066,Staff Behaviour,Low
+580,4497,Staff Behaviour,High
+581,1045,Billing Delay,Low
+582,2783,Long Wait Time,High
+583,3293,Billing Delay,High
+584,4283,Long Wait Time,Medium
+585,4683,Cleanliness,High
+586,715,Staff Behaviour,Medium
+587,4993,Doctor Interaction,Low
+588,3927,Long Wait Time,Medium
+589,3925,Long Wait Time,Medium
+590,2020,Long Wait Time,Medium
+591,1718,Staff Behaviour,Low
+592,1548,Staff Behaviour,Medium
+593,3874,Pharmacy Delay,Low
+594,4994,Doctor Interaction,Medium
+595,4455,Long Wait Time,Medium
+596,2729,Staff Behaviour,Low
+597,3728,Cleanliness,High
+598,1725,Long Wait Time,Medium
+599,3684,Long Wait Time,High
+600,4175,Long Wait Time,High
+601,201,Staff Behaviour,High
+602,408,Billing Delay,Medium
+603,266,Doctor Interaction,Medium
+604,2475,Billing Delay,Low
+605,1017,Doctor Interaction,Low
+606,3003,Cleanliness,Medium
+607,4986,Cleanliness,Low
+608,330,Staff Behaviour,Medium
+609,3926,Billing Delay,High
+610,1558,Doctor Interaction,Low
+611,2675,Pharmacy Delay,High
+612,1930,Doctor Interaction,High
+613,3238,Pharmacy Delay,High
+614,4752,Long Wait Time,Low
+615,4390,Pharmacy Delay,Low
+616,3330,Cleanliness,High
+617,1718,Long Wait Time,Medium
+618,759,Doctor Interaction,High
+619,1556,Long Wait Time,High
+620,4039,Cleanliness,High
+621,4439,Long Wait Time,Medium
+622,3694,Cleanliness,Medium
+623,2017,Staff Behaviour,High
+624,4500,Pharmacy Delay,High
+625,2117,Cleanliness,Low
+626,3328,Long Wait Time,Low
+627,905,Cleanliness,Low
+628,273,Doctor Interaction,High
+629,2878,Staff Behaviour,High
+630,4039,Long Wait Time,High
+631,3717,Billing Delay,High
+632,2111,Staff Behaviour,Medium
+633,3736,Doctor Interaction,Medium
+634,2351,Long Wait Time,Low
+635,2257,Pharmacy Delay,High
+636,4706,Billing Delay,Low
+637,771,Pharmacy Delay,Medium
+638,4305,Cleanliness,High
+639,948,Long Wait Time,Low
+640,2701,Long Wait Time,High
+641,4929,Doctor Interaction,Low
+642,1516,Cleanliness,Medium
+643,4437,Billing Delay,High
+644,3885,Long Wait Time,Medium
+645,831,Billing Delay,Low
+646,3094,Pharmacy Delay,High
+647,4198,Pharmacy Delay,High
+648,3402,Cleanliness,Medium
+649,4801,Staff Behaviour,Medium
+650,4078,Doctor Interaction,Medium
+651,1493,Billing Delay,Low
+652,2970,Cleanliness,High
+653,478,Staff Behaviour,High
+654,1101,Billing Delay,High
+655,2641,Long Wait Time,Low
+656,4547,Pharmacy Delay,Low
+657,3579,Doctor Interaction,Low
+658,2754,Pharmacy Delay,High
+659,1021,Cleanliness,Low
+660,115,Billing Delay,High
+661,3917,Staff Behaviour,Medium
+662,646,Billing Delay,Low
+663,4591,Doctor Interaction,Low
+664,906,Pharmacy Delay,High
+665,2014,Staff Behaviour,Medium
+666,1925,Staff Behaviour,High
+667,4970,Pharmacy Delay,Medium
+668,4473,Pharmacy Delay,High
+669,4165,Doctor Interaction,Medium
+670,1104,Long Wait Time,Low
+671,1423,Billing Delay,Medium
+672,2031,Cleanliness,Medium
+673,751,Pharmacy Delay,High
+674,4824,Staff Behaviour,High
+675,3098,Cleanliness,Medium
+676,3090,Staff Behaviour,High
+677,4227,Billing Delay,High
+678,836,Cleanliness,High
+679,767,Doctor Interaction,High
+680,438,Pharmacy Delay,Low
+681,4622,Doctor Interaction,Medium
+682,2266,Doctor Interaction,Medium
+683,1652,Staff Behaviour,High
+684,3435,Long Wait Time,High
+685,2255,Billing Delay,Low
+686,4849,Cleanliness,Medium
+687,1067,Billing Delay,High
+688,816,Cleanliness,High
+689,4399,Billing Delay,High
+690,3514,Staff Behaviour,High
+691,2384,Pharmacy Delay,High
+692,827,Cleanliness,Medium
+693,1442,Staff Behaviour,Medium
+694,3209,Cleanliness,Low
+695,1326,Cleanliness,High
+696,1886,Staff Behaviour,Medium
+697,2390,Long Wait Time,High
+698,291,Billing Delay,Medium
+699,379,Staff Behaviour,High
+700,196,Doctor Interaction,Medium
+701,1406,Long Wait Time,Medium
+702,67,Staff Behaviour,Low
+703,746,Cleanliness,Medium
+704,2710,Long Wait Time,High
+705,4393,Long Wait Time,Low
+706,2268,Long Wait Time,Low
+707,2089,Pharmacy Delay,Medium
+708,4272,Pharmacy Delay,Low
+709,4521,Staff Behaviour,Low
+710,99,Pharmacy Delay,Low
+711,4981,Pharmacy Delay,High
+712,1380,Cleanliness,High
+713,1387,Staff Behaviour,Medium
+714,1961,Cleanliness,High
+715,4453,Pharmacy Delay,High
+716,4798,Pharmacy Delay,Medium
+717,2047,Staff Behaviour,High
+718,1670,Billing Delay,Low
+719,412,Pharmacy Delay,Low
+720,2333,Billing Delay,Low
+721,2517,Cleanliness,Medium
+722,3236,Billing Delay,Low
+723,3587,Cleanliness,High
+724,3377,Staff Behaviour,High
+725,4134,Doctor Interaction,High
+726,1267,Billing Delay,High
+727,521,Staff Behaviour,Low
+728,3466,Staff Behaviour,Low
+729,2841,Doctor Interaction,Medium
+730,4429,Long Wait Time,High
+731,926,Pharmacy Delay,Medium
+732,2768,Doctor Interaction,Medium
+733,3497,Pharmacy Delay,Low
+734,1521,Doctor Interaction,High
+735,2304,Billing Delay,Medium
+736,2317,Doctor Interaction,Low
+737,450,Pharmacy Delay,Medium
+738,3457,Doctor Interaction,High
+739,3757,Cleanliness,Medium
+740,3092,Cleanliness,High
+741,3164,Pharmacy Delay,Medium
+742,394,Long Wait Time,Low
+743,3672,Pharmacy Delay,Low
+744,594,Billing Delay,High
+745,1233,Pharmacy Delay,Low
+746,3358,Doctor Interaction,High
+747,4315,Cleanliness,High
+748,2899,Cleanliness,Medium
+749,2437,Long Wait Time,Low
+750,4082,Staff Behaviour,High
+751,1505,Pharmacy Delay,High
+752,227,Billing Delay,High
+753,1501,Billing Delay,High
+754,1786,Billing Delay,Medium
+755,1056,Billing Delay,Medium
+756,3894,Billing Delay,High
+757,3184,Pharmacy Delay,Low
+758,1872,Cleanliness,High
+759,2852,Staff Behaviour,High
+760,3461,Cleanliness,Medium
+761,3470,Cleanliness,Medium
+762,3048,Long Wait Time,Medium
+763,1055,Staff Behaviour,High
+764,3350,Cleanliness,Low
+765,4538,Cleanliness,High
+766,3157,Long Wait Time,High
+767,4373,Pharmacy Delay,Medium
+768,1065,Pharmacy Delay,Low
+769,2577,Pharmacy Delay,High
+770,1199,Billing Delay,Low
+771,2684,Staff Behaviour,High
+772,4459,Doctor Interaction,High
+773,3630,Billing Delay,Medium
+774,1582,Doctor Interaction,Low
+775,4281,Long Wait Time,Medium
+776,2951,Doctor Interaction,High
+777,2511,Pharmacy Delay,Medium
+778,4487,Long Wait Time,Medium
+779,1072,Staff Behaviour,High
+780,3181,Staff Behaviour,High
+781,2082,Staff Behaviour,High
+782,4525,Billing Delay,High
+783,1565,Long Wait Time,Medium
+784,131,Cleanliness,High
+785,2296,Pharmacy Delay,Medium
+786,3012,Staff Behaviour,High
+787,2857,Long Wait Time,High
+788,1216,Doctor Interaction,High
+789,2947,Pharmacy Delay,Medium
+790,2162,Doctor Interaction,High
+791,589,Billing Delay,High
+792,4426,Staff Behaviour,Low
+793,329,Long Wait Time,High
+794,675,Billing Delay,High
+795,248,Staff Behaviour,Low
+796,73,Long Wait Time,High
+797,3075,Billing Delay,High
+798,2460,Cleanliness,Medium
+799,997,Billing Delay,High
+800,4900,Pharmacy Delay,Medium
+801,3899,Billing Delay,High
+802,83,Staff Behaviour,High
+803,552,Pharmacy Delay,Medium
+804,4086,Pharmacy Delay,Medium
+805,1176,Staff Behaviour,High
+806,2648,Doctor Interaction,High
+807,2200,Staff Behaviour,Medium
+808,4148,Pharmacy Delay,Low
+809,3853,Billing Delay,Low
+810,4813,Long Wait Time,Medium
+811,323,Long Wait Time,Medium
+812,1908,Long Wait Time,Low
+813,1215,Billing Delay,Low
+814,859,Long Wait Time,High
+815,3217,Cleanliness,High
+816,2433,Staff Behaviour,Medium
+817,152,Staff Behaviour,Medium
+818,4088,Cleanliness,High
+819,2843,Cleanliness,Medium
+820,2166,Long Wait Time,High
+821,1962,Pharmacy Delay,Medium
+822,4692,Staff Behaviour,Medium
+823,2798,Doctor Interaction,High
+824,4367,Doctor Interaction,High
+825,1458,Staff Behaviour,Low
+826,4098,Cleanliness,Low
+827,2501,Doctor Interaction,High
+828,2711,Staff Behaviour,Medium
+829,3373,Cleanliness,Medium
+830,4915,Staff Behaviour,Medium
+831,2009,Pharmacy Delay,Medium
+832,4167,Staff Behaviour,Medium
+833,4242,Staff Behaviour,Medium
+834,3471,Doctor Interaction,Low
+835,284,Doctor Interaction,High
+836,1749,Staff Behaviour,Low
+837,364,Pharmacy Delay,Low
+838,690,Long Wait Time,High
+839,3358,Long Wait Time,Medium
+840,695,Billing Delay,Low
+841,2185,Billing Delay,Medium
+842,1788,Long Wait Time,High
+843,2100,Long Wait Time,High
+844,1449,Billing Delay,Low
+845,2976,Billing Delay,High
+846,426,Pharmacy Delay,Medium
+847,1263,Billing Delay,Low
+848,4801,Doctor Interaction,Low
+849,3098,Billing Delay,High
+850,1049,Staff Behaviour,Low
+851,2591,Cleanliness,Low
+852,3803,Staff Behaviour,Low
+853,4172,Doctor Interaction,Low
+854,2507,Billing Delay,Low
+855,2910,Pharmacy Delay,Medium
+856,1820,Doctor Interaction,Medium
+857,970,Billing Delay,Low
+858,4863,Staff Behaviour,Medium
+859,3266,Doctor Interaction,Low
+860,1726,Billing Delay,Low
+861,2398,Staff Behaviour,Medium
+862,815,Billing Delay,Low
+863,4978,Long Wait Time,Medium
+864,671,Pharmacy Delay,Low
+865,1716,Doctor Interaction,High
+866,4341,Cleanliness,High
+867,380,Long Wait Time,High
+868,3850,Pharmacy Delay,High
+869,3611,Doctor Interaction,Medium
+870,3343,Doctor Interaction,Medium
+871,4398,Doctor Interaction,High
+872,188,Cleanliness,High
+873,3555,Doctor Interaction,High
+874,1160,Doctor Interaction,High
+875,4019,Staff Behaviour,Medium
+876,1316,Doctor Interaction,Medium
+877,3874,Pharmacy Delay,Low
+878,716,Billing Delay,High
+879,811,Long Wait Time,Low
+880,2866,Long Wait Time,Low
+881,3420,Staff Behaviour,High
+882,4550,Pharmacy Delay,High
+883,719,Staff Behaviour,Low
+884,3821,Doctor Interaction,Low
+885,2214,Long Wait Time,High
+886,2805,Billing Delay,Medium
+887,2300,Billing Delay,High
+888,2054,Doctor Interaction,High
+889,4036,Cleanliness,Low
+890,2339,Cleanliness,High
+891,951,Pharmacy Delay,Medium
+892,3493,Staff Behaviour,Low
+893,2635,Long Wait Time,Low
+894,3161,Long Wait Time,Low
+895,2949,Billing Delay,Low
+896,2688,Pharmacy Delay,High
+897,4305,Long Wait Time,Low
+898,2169,Staff Behaviour,Medium
+899,3765,Doctor Interaction,Medium
+900,1873,Doctor Interaction,Low
+901,3061,Cleanliness,High
+902,2479,Doctor Interaction,High
+903,960,Cleanliness,Low
+904,3845,Staff Behaviour,Low
+905,3257,Cleanliness,High
+906,3127,Staff Behaviour,Low
+907,1862,Pharmacy Delay,Low
+908,1574,Pharmacy Delay,High
+909,531,Staff Behaviour,High
+910,2132,Billing Delay,High
+911,2772,Long Wait Time,High
+912,4945,Cleanliness,Low
+913,4259,Pharmacy Delay,High
+914,3742,Pharmacy Delay,Low
+915,724,Billing Delay,Medium
+916,3717,Long Wait Time,Low
+917,4686,Long Wait Time,High
+918,2853,Cleanliness,High
+919,2604,Staff Behaviour,High
+920,2476,Doctor Interaction,Medium
+921,1032,Long Wait Time,Low
+922,306,Staff Behaviour,Medium
+923,1831,Pharmacy Delay,Medium
+924,2211,Cleanliness,High
+925,4373,Pharmacy Delay,Low
+926,2219,Pharmacy Delay,High
+927,883,Billing Delay,Low
+928,4824,Staff Behaviour,Medium
+929,2270,Long Wait Time,Low
+930,3254,Doctor Interaction,Low
+931,778,Staff Behaviour,Medium
+932,3409,Billing Delay,High
+933,1334,Doctor Interaction,Medium
+934,94,Cleanliness,Low
+935,1384,Pharmacy Delay,Medium
+936,732,Staff Behaviour,Medium
+937,2402,Cleanliness,Medium
+938,2758,Staff Behaviour,High
+939,1654,Doctor Interaction,Medium
+940,1221,Billing Delay,High
+941,1962,Doctor Interaction,High
+942,1736,Billing Delay,Low
+943,785,Staff Behaviour,Medium
+944,701,Doctor Interaction,Medium
+945,3306,Billing Delay,High
+946,1415,Cleanliness,Medium
+947,2959,Long Wait Time,Low
+948,1165,Doctor Interaction,Low
+949,1230,Staff Behaviour,Medium
+950,1729,Long Wait Time,High
+951,4364,Billing Delay,High
+952,4709,Staff Behaviour,High
+953,3854,Cleanliness,High
+954,1052,Cleanliness,High
+955,3894,Pharmacy Delay,High
+956,2517,Cleanliness,High
+957,3244,Cleanliness,High
+958,3809,Pharmacy Delay,Medium
+959,3620,Long Wait Time,Low
+960,331,Cleanliness,High
+961,464,Billing Delay,Medium
+962,3598,Doctor Interaction,Low
+963,3981,Staff Behaviour,Low
+964,937,Doctor Interaction,Medium
+965,2564,Doctor Interaction,High
+966,3314,Staff Behaviour,High
+967,1725,Pharmacy Delay,High
+968,3261,Pharmacy Delay,Medium
+969,2568,Cleanliness,High
+970,2681,Doctor Interaction,High
+971,3598,Staff Behaviour,High
+972,3171,Billing Delay,Low
+973,1387,Doctor Interaction,Medium
+974,3421,Billing Delay,Medium
+975,2211,Doctor Interaction,High
+976,3999,Long Wait Time,High
+977,390,Pharmacy Delay,Low
+978,4742,Pharmacy Delay,High
+979,4523,Doctor Interaction,High
+980,3941,Pharmacy Delay,High
+981,1442,Staff Behaviour,High
+982,1948,Pharmacy Delay,Low
+983,4170,Pharmacy Delay,Medium
+984,2116,Pharmacy Delay,Medium
+985,117,Doctor Interaction,Medium
+986,4311,Pharmacy Delay,Medium
+987,689,Cleanliness,Low
+988,4351,Long Wait Time,Low
+989,11,Billing Delay,Low
+990,229,Doctor Interaction,Low
+991,2696,Doctor Interaction,Medium
+992,4355,Staff Behaviour,Medium
+993,2119,Cleanliness,Low
+994,3536,Staff Behaviour,Medium
+995,2308,Cleanliness,High
+996,2760,Billing Delay,High
+997,2958,Long Wait Time,Low
+998,1820,Long Wait Time,Medium
+999,2289,Doctor Interaction,Medium
+1000,1238,Cleanliness,Low

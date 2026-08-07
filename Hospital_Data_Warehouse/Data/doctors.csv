@@ -1,0 +1,21 @@
+doctor_id,doctor_name,department
+1,Dr Sharma,Cardiology
+2,Dr Mehta,Cardiology
+3,Dr Verma,Neurology
+4,Dr Singh,Neurology
+5,Dr Patel,Orthopedics
+6,Dr Kumar,Orthopedics
+7,Dr Gupta,Pediatrics
+8,Dr Nair,Pediatrics
+9,Dr Rao,Dermatology
+10,Dr Joshi,Dermatology
+11,Dr Agarwal,General Medicine
+12,Dr Mishra,General Medicine
+13,Dr Kapoor,ENT
+14,Dr Sinha,ENT
+15,Dr Bansal,Gastroenterology
+16,Dr Jain,Gastroenterology
+17,Dr Arora,Cardiology
+18,Dr Khanna,Neurology
+19,Dr Tiwari,General Medicine
+20,Dr Yadav,Pediatrics
