@@ -1,0 +1,26 @@
+branch_id,branch_name,city,state
+1,Delhi Branch,Delhi,Delhi
+2,Mumbai Branch,Mumbai,Maharashtra
+3,Bangalore Branch,Bangalore,Karnataka
+4,Hyderabad Branch,Hyderabad,Telangana
+5,Chennai Branch,Chennai,Tamil Nadu
+6,Pune Branch,Pune,Maharashtra
+7,Kolkata Branch,Kolkata,West Bengal
+8,Ahmedabad Branch,Ahmedabad,Gujarat
+9,Jaipur Branch,Jaipur,Rajasthan
+10,Lucknow Branch,Lucknow,Uttar Pradesh
+11,Indore Branch,Indore,Madhya Pradesh
+12,Bhopal Branch,Bhopal,Madhya Pradesh
+13,Nagpur Branch,Nagpur,Maharashtra
+14,Chandigarh Branch,Chandigarh,Chandigarh
+15,Surat Branch,Surat,Gujarat
+16,Raipur Branch,Raipur,Chhattisgarh
+17,Jabalpur Branch,Jabalpur,Madhya Pradesh
+18,Patna Branch,Patna,Bihar
+19,Kochi Branch,Kochi,Kerala
+20,Bhubaneswar Branch,Bhubaneswar,Odisha
+21,Noida Branch,Noida,Uttar Pradesh
+22,Gurgaon Branch,Gurgaon,Haryana
+23,Visakhapatnam Branch,Visakhapatnam,Andhra Pradesh
+24,Coimbatore Branch,Coimbatore,Tamil Nadu
+25,Mysore Branch,Mysore,Karnataka

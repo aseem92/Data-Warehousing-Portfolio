@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,unit_cost
+1,Nova Laptop,Electronics,TechPro,37206.75
+2,Prime Laptop,Electronics,Prime,7407.13
+3,Nova Laptop,Electronics,MaxOne,4803.47
+4,SmartLine Laptop,Electronics,TechPro,1974.96
+5,Prime Laptop,Electronics,Prime,25515.09
+6,TechPro Laptop,Electronics,MaxOne,10342.46
+7,MaxOne Laptop,Electronics,SmartLine,11411.81
+8,Fusion Laptop,Electronics,Vision,40566.81
+9,TechPro Laptop,Electronics,Elite,35057.9
+10,Apex Laptop,Electronics,Vision,8196.24
+11,Apex Laptop,Electronics,Nova,5090.92
+12,Nova Laptop,Electronics,Apex,42450.97
+13,Fusion Laptop,Electronics,Vision,40452.85
+14,CoreX Laptop,Electronics,MaxOne,6678.9
+15,SmartLine Laptop,Electronics,Nova,27826.01
+16,Fusion Laptop,Electronics,Apex,29078.93
+17,Nova Laptop,Electronics,TechPro,33232.53
+18,Vision Laptop,Electronics,Nova,42838.23
+19,Nova Laptop,Electronics,SmartLine,14259.69
+20,Apex Laptop,Electronics,Elite,18823.96
+21,Prime Smartphone,Electronics,Vision,35240.11
+22,Nova Smartphone,Electronics,Fusion,31931.43
+23,MaxOne Smartphone,Electronics,Prime,8588.42
+24,SmartLine Smartphone,Electronics,Vision,49481.41
+25,MaxOne Smartphone,Electronics,Prime,34388.41
+26,TechPro Smartphone,Electronics,Prime,41179.23
+27,Apex Smartphone,Electronics,SmartLine,13753.17
+28,Prime Smartphone,Electronics,Fusion,43880.2
+29,Apex Smartphone,Electronics,Prime,32944.21
+30,SmartLine Smartphone,Electronics,CoreX,7572.14
+31,Elite Smartphone,Electronics,Prime,37376.95
+32,MaxOne Smartphone,Electronics,Vision,37477.18
+33,SmartLine Smartphone,Electronics,Fusion,20270.33
+34,Prime Smartphone,Electronics,Elite,25721.55
+35,Nova Smartphone,Electronics,TechPro,43124.59
+36,Elite Smartphone,Electronics,Elite,39707.93
+37,SmartLine Smartphone,Electronics,Fusion,3644.62
+38,SmartLine Smartphone,Electronics,Fusion,49808.01
+39,MaxOne Smartphone,Electronics,Vision,48568.38
+40,TechPro Smartphone,Electronics,Nova,34244.66
+41,MaxOne Tablet,Electronics,Vision,38545.64
+42,Apex Tablet,Electronics,Nova,15028.26
+43,Elite Tablet,Electronics,CoreX,660.64
+44,Vision Tablet,Electronics,MaxOne,38217.13
+45,MaxOne Tablet,Electronics,Nova,43590.67
+46,Vision Tablet,Electronics,MaxOne,30644.03
+47,Elite Tablet,Electronics,Apex,38244.28
+48,MaxOne Tablet,Electronics,MaxOne,45965.43
+49,Fusion Tablet,Electronics,Apex,24685.98
+50,Nova Tablet,Electronics,Apex,43996.73
+51,Vision Tablet,Electronics,Prime,3367.3
+52,Fusion Tablet,Electronics,Nova,4739.85
+53,CoreX Tablet,Electronics,Nova,48910.23
+54,MaxOne Tablet,Electronics,Elite,6855.38
+55,CoreX Tablet,Electronics,MaxOne,8673.78
+56,MaxOne Tablet,Electronics,Fusion,21445.33
+57,Prime Tablet,Electronics,MaxOne,37885.63
+58,Prime Tablet,Electronics,Vision,20250.12
+59,Apex Tablet,Electronics,CoreX,45030.9
+60,CoreX Tablet,Electronics,Nova,12771.33
+61,Nova Monitor,Electronics,Apex,1541.2
+62,MaxOne Monitor,Electronics,Prime,29627.79
+63,TechPro Monitor,Electronics,Nova,35538.13
+64,TechPro Monitor,Electronics,Prime,3836.32
+65,TechPro Monitor,Electronics,Apex,4007.44
+66,Prime Monitor,Electronics,Vision,33614.4
+67,Prime Monitor,Electronics,MaxOne,7049.44
+68,Fusion Monitor,Electronics,Fusion,23897.22
+69,CoreX Monitor,Electronics,SmartLine,9925.29
+70,Nova Monitor,Electronics,SmartLine,18037.73
+71,SmartLine Monitor,Electronics,CoreX,43259.92
+72,TechPro Monitor,Electronics,Nova,3500.33
+73,Apex Monitor,Electronics,Nova,12808.49
+74,Prime Monitor,Electronics,MaxOne,22706.37
+75,SmartLine Monitor,Electronics,Elite,14287.98
+76,Prime Monitor,Electronics,Nova,22434.97
+77,MaxOne Monitor,Electronics,Nova,3004.12
+78,MaxOne Monitor,Electronics,TechPro,48465.31
+79,Prime Monitor,Electronics,Elite,20617.5
+80,CoreX Monitor,Electronics,Prime,43300.19
+81,TechPro Keyboard,Electronics,Elite,19259.17
+82,SmartLine Keyboard,Electronics,Vision,46362.64
+83,CoreX Keyboard,Electronics,Vision,21438.87
+84,MaxOne Keyboard,Electronics,CoreX,8162.44
+85,Vision Keyboard,Electronics,Prime,48451.11
+86,Fusion Keyboard,Electronics,MaxOne,3517.4
+87,Apex Keyboard,Electronics,TechPro,2982.05
+88,CoreX Keyboard,Electronics,MaxOne,46009.66
+89,MaxOne Keyboard,Electronics,Elite,3315.54
+90,MaxOne Keyboard,Electronics,Nova,42641.46
+91,Nova Keyboard,Electronics,Fusion,3864.06
+92,Prime Keyboard,Electronics,SmartLine,6434.39
+93,Fusion Keyboard,Electronics,Prime,29156.49
+94,TechPro Keyboard,Electronics,Fusion,4558.18
+95,Fusion Keyboard,Electronics,Fusion,26377.74
+96,Vision Keyboard,Electronics,Prime,33651.44
+97,Apex Keyboard,Electronics,Prime,13647.92
+98,Elite Keyboard,Electronics,Vision,23132.62
+99,Nova Keyboard,Electronics,TechPro,23185.13
+100,Fusion Keyboard,Electronics,Nova,4126.41
+101,Prime Office Chair,Furniture,MaxOne,13627.42
+102,Apex Office Chair,Furniture,Nova,44023.88
+103,Apex Office Chair,Furniture,Vision,8308.47
+104,MaxOne Office Chair,Furniture,Vision,30778.05
+105,MaxOne Office Chair,Furniture,TechPro,33559.23
+106,MaxOne Office Chair,Furniture,Vision,46621.92
+107,Nova Office Chair,Furniture,Elite,13591.06
+108,Nova Office Chair,Furniture,MaxOne,8194.67
+109,Vision Office Chair,Furniture,Fusion,10926.17
+110,Apex Office Chair,Furniture,Prime,34531.11
+111,Vision Office Chair,Furniture,MaxOne,24682.33
+112,TechPro Office Chair,Furniture,Nova,31897.08
+113,Vision Office Chair,Furniture,TechPro,675.51
+114,Elite Office Chair,Furniture,Vision,8498.31
+115,CoreX Office Chair,Furniture,MaxOne,35430.54
+116,MaxOne Office Chair,Furniture,TechPro,6037.76
+117,Elite Office Chair,Furniture,MaxOne,2283.39
+118,Apex Office Chair,Furniture,Fusion,27849.99
+119,SmartLine Office Chair,Furniture,Elite,2570.53
+120,Apex Office Chair,Furniture,TechPro,44996.77
+121,Prime Desk,Furniture,Prime,33513.2
+122,Apex Desk,Furniture,MaxOne,44264.67
+123,SmartLine Desk,Furniture,Fusion,37599.14
+124,Prime Desk,Furniture,Elite,48822.2
+125,Elite Desk,Furniture,SmartLine,1726.92
+126,Apex Desk,Furniture,SmartLine,40210.64
+127,Prime Desk,Furniture,Vision,8380.29
+128,Nova Desk,Furniture,SmartLine,43672.26
+129,CoreX Desk,Furniture,Prime,10378.86
+130,CoreX Desk,Furniture,Apex,15606.95
+131,Prime Desk,Furniture,Prime,1671.39
+132,Prime Desk,Furniture,SmartLine,16748.97
+133,Nova Desk,Furniture,Vision,17881.73
+134,MaxOne Desk,Furniture,SmartLine,34136.15
+135,MaxOne Desk,Furniture,Apex,46992.24
+136,Nova Desk,Furniture,Vision,9339.11
+137,Vision Desk,Furniture,TechPro,5865.93
+138,SmartLine Desk,Furniture,Apex,36562.98
+139,Apex Desk,Furniture,SmartLine,30507.34
+140,MaxOne Desk,Furniture,Nova,19567.17
+141,Fusion Cabinet,Furniture,Prime,13108.76
+142,SmartLine Cabinet,Furniture,TechPro,26236.06
+143,MaxOne Cabinet,Furniture,Prime,18528.96
+144,Nova Cabinet,Furniture,Apex,31346.19
+145,Nova Cabinet,Furniture,Vision,25602.56
+146,SmartLine Cabinet,Furniture,Apex,20418.82
+147,Vision Cabinet,Furniture,MaxOne,6800.75
+148,SmartLine Cabinet,Furniture,SmartLine,34027.24
+149,Elite Cabinet,Furniture,Fusion,28670.71
+150,SmartLine Cabinet,Furniture,MaxOne,41769.4
+151,Vision Cabinet,Furniture,Vision,10904.04
+152,Fusion Cabinet,Furniture,Fusion,32907.93
+153,CoreX Cabinet,Furniture,CoreX,22386.91
+154,Prime Cabinet,Furniture,MaxOne,23922.72
+155,Elite Cabinet,Furniture,Nova,14547.43
+156,Fusion Cabinet,Furniture,Apex,5122.67
+157,Prime Cabinet,Furniture,Vision,11619.71
+158,Prime Cabinet,Furniture,Elite,1709.06
+159,Prime Cabinet,Furniture,CoreX,30758.06
+160,Nova Cabinet,Furniture,CoreX,21014.83
+161,Fusion Conference Table,Furniture,Prime,36058.12
+162,SmartLine Conference Table,Furniture,CoreX,20282.82
+163,Elite Conference Table,Furniture,TechPro,44686.66
+164,Nova Conference Table,Furniture,SmartLine,11332.64
+165,MaxOne Conference Table,Furniture,CoreX,2985.81
+166,Prime Conference Table,Furniture,Nova,23094.86
+167,CoreX Conference Table,Furniture,MaxOne,49400.68
+168,Fusion Conference Table,Furniture,Apex,47526.96
+169,CoreX Conference Table,Furniture,Fusion,40842.82
+170,MaxOne Conference Table,Furniture,SmartLine,41613.17
+171,MaxOne Conference Table,Furniture,CoreX,44911.8
+172,CoreX Conference Table,Furniture,CoreX,13329.98
+173,Prime Conference Table,Furniture,Vision,38407.78
+174,MaxOne Conference Table,Furniture,CoreX,31524.05
+175,Vision Conference Table,Furniture,CoreX,4335.43
+176,Vision Conference Table,Furniture,Prime,13949.9
+177,Apex Conference Table,Furniture,MaxOne,4488.59
+178,Elite Conference Table,Furniture,Prime,19460.25
+179,Elite Conference Table,Furniture,Prime,3679.33
+180,SmartLine Conference Table,Furniture,Apex,27359.25
+181,SmartLine Bookshelf,Furniture,TechPro,10738.3
+182,SmartLine Bookshelf,Furniture,SmartLine,45289.5
+183,Fusion Bookshelf,Furniture,TechPro,42908.24
+184,Fusion Bookshelf,Furniture,SmartLine,24110.5
+185,Apex Bookshelf,Furniture,Vision,37797.02
+186,SmartLine Bookshelf,Furniture,MaxOne,37502.03
+187,MaxOne Bookshelf,Furniture,Fusion,44941.66
+188,CoreX Bookshelf,Furniture,Prime,14010.3
+189,CoreX Bookshelf,Furniture,TechPro,19748.43
+190,SmartLine Bookshelf,Furniture,Elite,42105.03
+191,Elite Bookshelf,Furniture,Fusion,26939.12
+192,SmartLine Bookshelf,Furniture,Fusion,28437.4
+193,TechPro Bookshelf,Furniture,Nova,32316.11
+194,Elite Bookshelf,Furniture,CoreX,9495.59
+195,Vision Bookshelf,Furniture,SmartLine,16703.96
+196,CoreX Bookshelf,Furniture,Apex,17206.28
+197,SmartLine Bookshelf,Furniture,Vision,37724.49
+198,SmartLine Bookshelf,Furniture,Vision,41828.09
+199,CoreX Bookshelf,Furniture,TechPro,37576.7
+200,TechPro Bookshelf,Furniture,Apex,11599.0
+201,Nova Refrigerator,Appliances,TechPro,37834.54
+202,Prime Refrigerator,Appliances,Prime,42041.83
+203,Fusion Refrigerator,Appliances,Elite,12307.97
+204,CoreX Refrigerator,Appliances,Nova,28416.49
+205,Prime Refrigerator,Appliances,CoreX,35123.52
+206,Apex Refrigerator,Appliances,Elite,30491.69
+207,Nova Refrigerator,Appliances,Elite,48253.68
+208,Nova Refrigerator,Appliances,Fusion,1771.08
+209,Vision Refrigerator,Appliances,Fusion,34028.69
+210,SmartLine Refrigerator,Appliances,SmartLine,47102.79
+211,Prime Refrigerator,Appliances,Nova,29808.84
+212,Prime Refrigerator,Appliances,Nova,35011.05
+213,Vision Refrigerator,Appliances,Fusion,40373.63
+214,Fusion Refrigerator,Appliances,TechPro,17686.59
+215,SmartLine Refrigerator,Appliances,Apex,3913.36
+216,Apex Refrigerator,Appliances,TechPro,42553.99
+217,CoreX Refrigerator,Appliances,Nova,21959.41
+218,Apex Refrigerator,Appliances,CoreX,35511.78
+219,SmartLine Refrigerator,Appliances,Elite,36822.87
+220,Vision Refrigerator,Appliances,Fusion,40505.86
+221,MaxOne Microwave,Appliances,CoreX,23511.25
+222,Fusion Microwave,Appliances,Vision,16454.08
+223,Prime Microwave,Appliances,Nova,14306.95
+224,CoreX Microwave,Appliances,Prime,37648.58
+225,Fusion Microwave,Appliances,Fusion,33575.33
+226,Apex Microwave,Appliances,TechPro,24968.17
+227,Apex Microwave,Appliances,Elite,24633.72
+228,Apex Microwave,Appliances,Vision,17346.77
+229,Fusion Microwave,Appliances,Vision,28011.66
+230,MaxOne Microwave,Appliances,Prime,4737.84
+231,SmartLine Microwave,Appliances,CoreX,27981.22
+232,Prime Microwave,Appliances,CoreX,32472.19
+233,CoreX Microwave,Appliances,CoreX,39750.18
+234,Nova Microwave,Appliances,Vision,11469.02
+235,Prime Microwave,Appliances,Vision,33366.02
+236,Apex Microwave,Appliances,CoreX,27896.91
+237,Apex Microwave,Appliances,SmartLine,49833.26
+238,MaxOne Microwave,Appliances,Apex,17914.62
+239,CoreX Microwave,Appliances,Vision,15677.84
+240,Prime Microwave,Appliances,Nova,36203.57
+241,Apex Washing Machine,Appliances,Nova,37272.61
+242,Elite Washing Machine,Appliances,Prime,11211.04
+243,CoreX Washing Machine,Appliances,Vision,36366.96
+244,MaxOne Washing Machine,Appliances,Fusion,14508.44
+245,Nova Washing Machine,Appliances,Prime,15164.2
+246,Apex Washing Machine,Appliances,Elite,15462.25
+247,MaxOne Washing Machine,Appliances,Elite,14078.41
+248,TechPro Washing Machine,Appliances,MaxOne,14960.76
+249,Elite Washing Machine,Appliances,CoreX,5578.09
+250,TechPro Washing Machine,Appliances,Fusion,14574.8
+251,CoreX Washing Machine,Appliances,CoreX,17364.94
+252,TechPro Washing Machine,Appliances,Vision,47082.65
+253,CoreX Washing Machine,Appliances,Nova,41194.72
+254,SmartLine Washing Machine,Appliances,CoreX,4167.07
+255,TechPro Washing Machine,Appliances,Elite,7885.28
+256,Fusion Washing Machine,Appliances,Vision,4716.45
+257,Prime Washing Machine,Appliances,Nova,28124.62
+258,SmartLine Washing Machine,Appliances,Fusion,30008.28
+259,Fusion Washing Machine,Appliances,Prime,38896.83
+260,SmartLine Washing Machine,Appliances,CoreX,45470.97
+261,Vision Air Conditioner,Appliances,Fusion,49506.55
+262,Vision Air Conditioner,Appliances,Fusion,31240.85
+263,Fusion Air Conditioner,Appliances,Nova,47405.71
+264,Prime Air Conditioner,Appliances,Prime,13599.98
+265,Nova Air Conditioner,Appliances,Elite,12373.33
+266,MaxOne Air Conditioner,Appliances,Nova,8248.36
+267,SmartLine Air Conditioner,Appliances,CoreX,34623.87
+268,CoreX Air Conditioner,Appliances,Vision,2115.67
+269,Vision Air Conditioner,Appliances,Vision,35297.88
+270,CoreX Air Conditioner,Appliances,Nova,34525.55
+271,Vision Air Conditioner,Appliances,Fusion,33228.56
+272,Prime Air Conditioner,Appliances,SmartLine,6181.43
+273,Prime Air Conditioner,Appliances,Elite,45466.37
+274,Elite Air Conditioner,Appliances,Nova,3452.08
+275,Vision Air Conditioner,Appliances,Fusion,37573.41
+276,Fusion Air Conditioner,Appliances,Vision,22238.1
+277,CoreX Air Conditioner,Appliances,Vision,35136.82
+278,Vision Air Conditioner,Appliances,MaxOne,27229.09
+279,CoreX Air Conditioner,Appliances,Nova,30102.81
+280,SmartLine Air Conditioner,Appliances,Apex,30383.83
+281,TechPro Water Purifier,Appliances,Nova,11831.76
+282,Fusion Water Purifier,Appliances,Fusion,47563.92
+283,Vision Water Purifier,Appliances,Fusion,2491.47
+284,Elite Water Purifier,Appliances,CoreX,26188.71
+285,CoreX Water Purifier,Appliances,Vision,9483.71
+286,Fusion Water Purifier,Appliances,SmartLine,31921.84
+287,CoreX Water Purifier,Appliances,Nova,23765.51
+288,SmartLine Water Purifier,Appliances,Apex,16392.38
+289,Nova Water Purifier,Appliances,Elite,16825.28
+290,CoreX Water Purifier,Appliances,Vision,33297.89
+291,SmartLine Water Purifier,Appliances,MaxOne,2316.51
+292,Nova Water Purifier,Appliances,Apex,12993.74
+293,Nova Water Purifier,Appliances,SmartLine,43313.07
+294,TechPro Water Purifier,Appliances,MaxOne,23367.83
+295,TechPro Water Purifier,Appliances,Prime,26162.75
+296,Fusion Water Purifier,Appliances,CoreX,31457.73
+297,TechPro Water Purifier,Appliances,Prime,13719.28
+298,Elite Water Purifier,Appliances,Vision,22186.75
+299,CoreX Water Purifier,Appliances,Nova,1929.04
+300,Fusion Water Purifier,Appliances,Prime,35634.25
+301,Vision Printer,Office Supplies,MaxOne,1176.89
+302,SmartLine Printer,Office Supplies,Nova,11622.68
+303,Nova Printer,Office Supplies,CoreX,47379.51
+304,Elite Printer,Office Supplies,CoreX,46666.33
+305,Vision Printer,Office Supplies,MaxOne,35417.88
+306,SmartLine Printer,Office Supplies,CoreX,49022.11
+307,Prime Printer,Office Supplies,CoreX,27787.62
+308,SmartLine Printer,Office Supplies,Prime,46132.47
+309,MaxOne Printer,Office Supplies,Elite,43269.33
+310,Vision Printer,Office Supplies,SmartLine,17323.82
+311,MaxOne Printer,Office Supplies,Vision,41117.2
+312,Vision Printer,Office Supplies,Vision,41955.06
+313,Fusion Printer,Office Supplies,CoreX,43330.4
+314,CoreX Printer,Office Supplies,MaxOne,24474.9
+315,Apex Printer,Office Supplies,MaxOne,38262.2
+316,SmartLine Printer,Office Supplies,CoreX,46676.19
+317,Prime Printer,Office Supplies,Prime,28803.98
+318,Prime Printer,Office Supplies,SmartLine,2660.54
+319,CoreX Printer,Office Supplies,SmartLine,19610.9
+320,Elite Printer,Office Supplies,CoreX,48258.81
+321,Elite Notebook,Office Supplies,MaxOne,48285.0
+322,Apex Notebook,Office Supplies,Nova,43772.42
+323,CoreX Notebook,Office Supplies,Nova,26534.58
+324,CoreX Notebook,Office Supplies,TechPro,36260.97
+325,SmartLine Notebook,Office Supplies,Elite,4204.0
+326,Vision Notebook,Office Supplies,Apex,31351.34
+327,SmartLine Notebook,Office Supplies,Nova,42662.38
+328,MaxOne Notebook,Office Supplies,SmartLine,47729.91
+329,CoreX Notebook,Office Supplies,MaxOne,2277.01
+330,Nova Notebook,Office Supplies,Prime,31742.47
+331,Vision Notebook,Office Supplies,Prime,37464.94
+332,SmartLine Notebook,Office Supplies,Nova,38138.3
+333,Nova Notebook,Office Supplies,CoreX,8735.06
+334,Vision Notebook,Office Supplies,TechPro,2776.55
+335,TechPro Notebook,Office Supplies,Vision,18243.94
+336,SmartLine Notebook,Office Supplies,Elite,12587.77
+337,SmartLine Notebook,Office Supplies,Fusion,34249.12
+338,Elite Notebook,Office Supplies,Elite,9165.93
+339,Fusion Notebook,Office Supplies,SmartLine,31175.66
+340,Prime Notebook,Office Supplies,CoreX,45685.04
+341,Elite Pen Pack,Office Supplies,Prime,23326.92
+342,Vision Pen Pack,Office Supplies,CoreX,13138.67
+343,TechPro Pen Pack,Office Supplies,CoreX,45109.87
+344,MaxOne Pen Pack,Office Supplies,Elite,4156.16
+345,Apex Pen Pack,Office Supplies,Fusion,15308.14
+346,SmartLine Pen Pack,Office Supplies,Vision,23113.37
+347,Vision Pen Pack,Office Supplies,Prime,49968.99
+348,CoreX Pen Pack,Office Supplies,Nova,12241.68
+349,Fusion Pen Pack,Office Supplies,Apex,28953.19
+350,Vision Pen Pack,Office Supplies,TechPro,48908.25
+351,SmartLine Pen Pack,Office Supplies,Vision,900.85
+352,TechPro Pen Pack,Office Supplies,Fusion,37386.02
+353,Vision Pen Pack,Office Supplies,Prime,30549.72
+354,Apex Pen Pack,Office Supplies,Prime,32012.58
+355,Fusion Pen Pack,Office Supplies,Vision,34049.34
+356,Elite Pen Pack,Office Supplies,Nova,45218.48
+357,TechPro Pen Pack,Office Supplies,Vision,39536.22
+358,TechPro Pen Pack,Office Supplies,Fusion,18560.63
+359,Elite Pen Pack,Office Supplies,Nova,45526.58
+360,Apex Pen Pack,Office Supplies,SmartLine,9194.18
+361,Elite Paper Ream,Office Supplies,MaxOne,43884.8
+362,Apex Paper Ream,Office Supplies,MaxOne,25338.84
+363,Vision Paper Ream,Office Supplies,Elite,13220.02
+364,CoreX Paper Ream,Office Supplies,Vision,37454.69
+365,Apex Paper Ream,Office Supplies,Nova,23682.4
+366,Nova Paper Ream,Office Supplies,Elite,37830.5
+367,Prime Paper Ream,Office Supplies,SmartLine,48379.85
+368,MaxOne Paper Ream,Office Supplies,Apex,4969.99
+369,SmartLine Paper Ream,Office Supplies,TechPro,13590.7
+370,Nova Paper Ream,Office Supplies,CoreX,18744.99
+371,Vision Paper Ream,Office Supplies,Fusion,19360.76
+372,Apex Paper Ream,Office Supplies,Nova,33904.41
+373,CoreX Paper Ream,Office Supplies,TechPro,31167.57
+374,MaxOne Paper Ream,Office Supplies,Apex,45805.17
+375,Prime Paper Ream,Office Supplies,Nova,31952.49
+376,CoreX Paper Ream,Office Supplies,Vision,32637.35
+377,Nova Paper Ream,Office Supplies,Elite,2744.67
+378,TechPro Paper Ream,Office Supplies,Vision,49798.41
+379,Nova Paper Ream,Office Supplies,Nova,12122.6
+380,MaxOne Paper Ream,Office Supplies,Elite,19737.97
+381,Apex Whiteboard,Office Supplies,MaxOne,21246.77
+382,Elite Whiteboard,Office Supplies,SmartLine,32918.63
+383,CoreX Whiteboard,Office Supplies,Fusion,20701.74
+384,Vision Whiteboard,Office Supplies,TechPro,34668.89
+385,Prime Whiteboard,Office Supplies,CoreX,22512.45
+386,Prime Whiteboard,Office Supplies,Apex,5418.05
+387,Apex Whiteboard,Office Supplies,MaxOne,45133.96
+388,Apex Whiteboard,Office Supplies,TechPro,20207.91
+389,Prime Whiteboard,Office Supplies,Nova,47476.03
+390,CoreX Whiteboard,Office Supplies,Nova,33307.05
+391,Fusion Whiteboard,Office Supplies,TechPro,3003.64
+392,Apex Whiteboard,Office Supplies,Prime,49446.63
+393,Fusion Whiteboard,Office Supplies,Prime,3896.2
+394,MaxOne Whiteboard,Office Supplies,Prime,29525.96
+395,Prime Whiteboard,Office Supplies,Apex,38831.24
+396,Fusion Whiteboard,Office Supplies,TechPro,14225.1
+397,Elite Whiteboard,Office Supplies,Elite,27240.67
+398,Elite Whiteboard,Office Supplies,Nova,33222.35
+399,TechPro Whiteboard,Office Supplies,Elite,1235.59
+400,Prime Whiteboard,Office Supplies,Fusion,16526.69
+401,Elite Headphones,Accessories,Vision,3093.75
+402,SmartLine Headphones,Accessories,MaxOne,6125.64
+403,Nova Headphones,Accessories,CoreX,22689.62
+404,Apex Headphones,Accessories,MaxOne,29886.47
+405,CoreX Headphones,Accessories,MaxOne,11466.71
+406,Fusion Headphones,Accessories,TechPro,36498.53
+407,MaxOne Headphones,Accessories,Vision,23173.1
+408,TechPro Headphones,Accessories,TechPro,49930.04
+409,SmartLine Headphones,Accessories,SmartLine,34461.83
+410,CoreX Headphones,Accessories,CoreX,4137.79
+411,Nova Headphones,Accessories,Apex,30610.72
+412,Nova Headphones,Accessories,Elite,14113.29
+413,Fusion Headphones,Accessories,MaxOne,35751.56
+414,SmartLine Headphones,Accessories,Fusion,26762.56
+415,CoreX Headphones,Accessories,MaxOne,30468.63
+416,Nova Headphones,Accessories,Nova,42713.24
+417,MaxOne Headphones,Accessories,Prime,21788.46
+418,Prime Headphones,Accessories,SmartLine,17277.12
+419,CoreX Headphones,Accessories,SmartLine,21091.49
+420,Nova Headphones,Accessories,Apex,21624.82
+421,Vision Mouse,Accessories,Apex,47702.83
+422,CoreX Mouse,Accessories,Nova,5015.63
+423,Nova Mouse,Accessories,Nova,21877.89
+424,Apex Mouse,Accessories,Elite,28040.35
+425,Fusion Mouse,Accessories,MaxOne,28303.33
+426,Nova Mouse,Accessories,SmartLine,18003.1
+427,SmartLine Mouse,Accessories,TechPro,48435.73
+428,Fusion Mouse,Accessories,Vision,17906.49
+429,Fusion Mouse,Accessories,MaxOne,11030.57
+430,CoreX Mouse,Accessories,Prime,42440.1
+431,Apex Mouse,Accessories,MaxOne,18694.27
+432,Vision Mouse,Accessories,Fusion,11694.88
+433,SmartLine Mouse,Accessories,MaxOne,48740.06
+434,Fusion Mouse,Accessories,Fusion,33911.35
+435,MaxOne Mouse,Accessories,TechPro,30645.25
+436,Vision Mouse,Accessories,TechPro,9430.6
+437,Vision Mouse,Accessories,Apex,17875.66
+438,Elite Mouse,Accessories,Elite,28532.89
+439,SmartLine Mouse,Accessories,Nova,7522.8
+440,TechPro Mouse,Accessories,Nova,37432.53
+441,Prime USB Drive,Accessories,SmartLine,21281.71
+442,Apex USB Drive,Accessories,Elite,18817.63
+443,Apex USB Drive,Accessories,Fusion,30013.08
+444,TechPro USB Drive,Accessories,Elite,8291.79
+445,Fusion USB Drive,Accessories,TechPro,33861.45
+446,Vision USB Drive,Accessories,CoreX,33265.97
+447,CoreX USB Drive,Accessories,Fusion,22381.19
+448,Vision USB Drive,Accessories,Prime,37869.69
+449,Nova USB Drive,Accessories,Apex,21780.72
+450,Vision USB Drive,Accessories,Fusion,24588.32
+451,Vision USB Drive,Accessories,TechPro,11415.66
+452,Fusion USB Drive,Accessories,TechPro,880.51
+453,Vision USB Drive,Accessories,Prime,38483.8
+454,Vision USB Drive,Accessories,Vision,16742.06
+455,TechPro USB Drive,Accessories,CoreX,37477.2
+456,Elite USB Drive,Accessories,Elite,19320.27
+457,Prime USB Drive,Accessories,MaxOne,28156.82
+458,Apex USB Drive,Accessories,Nova,20155.02
+459,TechPro USB Drive,Accessories,SmartLine,1427.71
+460,Nova USB Drive,Accessories,Apex,29000.08
+461,Fusion Webcam,Accessories,SmartLine,35620.2
+462,SmartLine Webcam,Accessories,Vision,6201.08
+463,TechPro Webcam,Accessories,Apex,9007.72
+464,Fusion Webcam,Accessories,CoreX,41685.28
+465,Apex Webcam,Accessories,Nova,22117.23
+466,Nova Webcam,Accessories,Prime,22065.99
+467,SmartLine Webcam,Accessories,MaxOne,4393.03
+468,Vision Webcam,Accessories,Apex,11467.82
+469,Elite Webcam,Accessories,Nova,25768.92
+470,Nova Webcam,Accessories,MaxOne,25742.63
+471,Apex Webcam,Accessories,Apex,36505.27
+472,Elite Webcam,Accessories,Prime,5588.82
+473,Vision Webcam,Accessories,Prime,9088.2
+474,Elite Webcam,Accessories,Nova,9268.73
+475,CoreX Webcam,Accessories,CoreX,37845.07
+476,Fusion Webcam,Accessories,CoreX,34216.11
+477,Fusion Webcam,Accessories,Fusion,16498.81
+478,Apex Webcam,Accessories,Elite,22268.26
+479,CoreX Webcam,Accessories,CoreX,31753.56
+480,Vision Webcam,Accessories,Fusion,3280.52
+481,MaxOne Power Bank,Accessories,Nova,15865.19
+482,CoreX Power Bank,Accessories,TechPro,3316.06
+483,Vision Power Bank,Accessories,Nova,32410.99
+484,Nova Power Bank,Accessories,Fusion,29906.95
+485,SmartLine Power Bank,Accessories,CoreX,29226.31
+486,TechPro Power Bank,Accessories,CoreX,45497.97
+487,Fusion Power Bank,Accessories,Prime,16415.57
+488,CoreX Power Bank,Accessories,MaxOne,7967.62
+489,TechPro Power Bank,Accessories,CoreX,5623.34
+490,Apex Power Bank,Accessories,Nova,25475.18
+491,Elite Power Bank,Accessories,TechPro,12763.31
+492,CoreX Power Bank,Accessories,CoreX,26441.39
+493,Fusion Power Bank,Accessories,Elite,18512.95
+494,Vision Power Bank,Accessories,SmartLine,20734.09
+495,Apex Power Bank,Accessories,Fusion,3092.09
+496,Apex Power Bank,Accessories,Nova,16819.69
+497,MaxOne Power Bank,Accessories,SmartLine,14565.28
+498,Fusion Power Bank,Accessories,Elite,17001.42
+499,Fusion Power Bank,Accessories,Elite,45878.95
+500,Vision Power Bank,Accessories,SmartLine,6883.11
